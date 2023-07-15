@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+#preview {
+  display: flex;
+  justify-content: center; /* Center-align the image horizontally */
+  margin-top: 20px;
+}
+
+#previewImg {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+#result {
+  margin-top: 30px;
+}
