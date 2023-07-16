@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1e2485d36bc54ca390c1b0d5f0889451/artifacts
+end_time: 1689497962194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e2485d36bc54ca390c1b0d5f0889451
+run_name: skillful-grub-400
+run_uuid: 1e2485d36bc54ca390c1b0d5f0889451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689497636619
+status: 3
+tags: []
+user_id: sina
